@@ -1,0 +1,28 @@
+# jemdoc: menu{MENU}{slides.html}, nofooter
+== Slides
+
+==== These slides present my current and previous research. Feel free to contact me if you wish to discuss these topics.
+~~~
+{}{img_left}{img/Contracts.PNG}{}{280}{200}{https://drive.google.com/file/d/1iYJQXjtbW-FcDgcYui_8TQen8y8uP8t5/view?usp=sharing}
+Assume/Guarantee contracts for dynamical systems, with optimization-based computational tools.
+~~~
+\n
+~~~
+{}{img_left}{img/L2SampleComplexity.PNG}{}{280}{200}{https://drive.google.com/file/d/1vTN6iZlKesnn4F_GeVC9dearC5e96dhk/view?usp=sharing}
+How much data do we need to determine the L2-gain of an unknown system, or to approximate it in the operator norm?
+~~~
+\n
+~~~
+{}{img_left}{img/FDI.PNG}{}{280}{200}{https://drive.google.com/file/d/1VFUlYvurzz4y2kbStPJxxOIwqYJd68Bc/view?usp=sharing}
+Detecting network faults in networks of passive agents using vertex connectivity and convergence rate estimates.
+~~~
+\n
+~~~
+{}{img_left}{img/Data_Driven.PNG}{}{280}{200}{https://drive.google.com/file/d/1KO60-r-0Iya3P9vpvJEJvZSKPjJu-24y/view?usp=sharing}
+Model-free control of multi-agent systems using a high-gain approach and passivity
+~~~
+\n
+~~~
+{}{img_left}{img/Network_Optimization.PNG}{}{280}{200}{https://drive.google.com/file/d/19nwmygk1BbAXYvR8KG75q0cXJ6ww13CR/view?usp=sharing}
+Analysis of multi-agent systems using tools from network optimization.
+~~~

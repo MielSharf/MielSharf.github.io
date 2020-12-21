@@ -1,0 +1,26 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+== Publications
+
+==== If you have any problem in accessing the following papers online, please feel free to contact me.
+
+== Preprints
+\[P2\]~~*M. Sharf* and D. Zelazo, "A Characterization of All Passivizing Input-Output Transformations of a Passive-Short System", Submitted.~~[https://arxiv.org/abs/1911.03749 arXiv]\n
+\[P1\]~~*M. Sharf* and D. Zelazo, "Network Identification for Diffusively-Coupled Systems with Minimal Time Complexity", Submitted.~~[https://arxiv.org/abs/1903.04923 arXiv]
+
+== Journal Papers
+\[J8\]~~*M. Sharf* and D. Zelazo, "Monitoring Link Faults in Nonlinear Diffusively-coupled Networks", IEEE Transactions on Automatic Control, 2020 (Accepted).~~Paper|[https://arxiv.org/abs/1908.03588 arXiv]\n
+\[J7\]~~*M. Sharf*, A. Jain, and D. Zelazo, "A Geometric Method for Passivation and Cooperative Control of Equilibrium-Independent Passivity-Short Systems", IEEE Transactions on Automatic Control, 2020 (Early Access).~~[https://ieeexplore.ieee.org/document/9288878 Paper]|[https://arxiv.org/abs/1901.06512 arXiv]\n
+\[J6\]~~*M. Sharf*, A. Koch, D. Zelazo and F. Allg\&ouml;wer, "Model-Free Practical Cooperative Control for Diffusively Coupled Systems", IEEE Transactions on Automatic Control, 2020 (Accepted).~~Paper|[https://arxiv.org/abs/1906.05204 arXiv]\n
+\[J5\]~~*M. Sharf*, "On the Sample Complexity of Data-Driven Inference of the L2-gain", IEEE Control Systems Letters, 4(4):904-909, 2020.~~[https://ieeexplore.ieee.org/document/9098876 Paper]|[https://arxiv.org/abs/2003.00238 arXiv]\n
+\[J4\]~~*M. Sharf* and D. Zelazo, "Analysis and Synthesis of MIMO Multi-Agent Systems Using Network Optimization", IEEE Transactions on Automatic Control, 64(11):4512-4524, 2019.~~[https://ieeexplore.ieee.org/document/8676217 Paper]|[https://arxiv.org/abs/1711.04287 arXiv]\n
+\[J3\]~~*M. Sharf* and D. Zelazo, "Network Feedback Passivation of Passivity-Short Multi-Agent Systems", IEEE Control Systems Letters, 3(3):607-612, 2019.~~[https://ieeexplore.ieee.org/document/8703839 Paper]|[https://arxiv.org/abs/1902.08986 arXiv]\n
+\[J2\]~~A. Jain, *M. Sharf*, and D. Zelazo, "Regularization and Feedback Passivation in Cooperative Control of Passivity-Short Systems: A Network Optimization Perspective", IEEE Control Systems Letters, 2(4):731-736, 2018.~~[https://ieeexplore.ieee.org/document/8386648 Paper]\n
+\[J1\]~~*M. Sharf* and D. Zelazo, "Network Optimization Approach to Cooperative Control Synthesis", IEEE Control Systems Letters, 1(1): 86-91, 2017.~~[https://ieeexplore.ieee.org/document/8619059 Paper]
+
+== Peer-Reviewed Conference Papers
+\[C2\]~~*M. Sharf* and D. Zelazo, "Symmetry-Induced Clustering in Multi-Agent Systems using Network Optimization and Passivity", Proceedings of the 27th Mediterranean Conference on Control and Automation (MED), Akko, Israel, July 2019, pp. 19-24.~~[https://ieeexplore.ieee.org/document/8798507 Paper]|[https://arxiv.org/abs/1902.03410 arXiv]\n
+\[C1\]~~*M. Sharf* and D. Zelazo, "Network Identification: A Passivity and Network Optimization Approach", Proceedings of the IEEE Conference on Decision and Control (CDC), Miami Beach, FL, December 2018, pp. 2107-2113.~~[https://ieeexplore.ieee.org/document/8619059 Paper]|[https://arxiv.org/abs/1807.06841 arXiv]
+
+== Theses
+\[T2\]~~*M. Sharf*, "Network Optimization Methods in Passivity-Based Cooperative Control" , PhD thesis. Department of Aerospace Engineering, Technion - Israel Institute of Technology, 2020. Supervisor: D. Zelazo.\n
+\[T1\]~~*M. Sharf*, "On Reduced Horoboundary Action of Groups and Property (EH)" , MSc thesis. Faculty of Mathematics, Technion - Israel Institute of Technology, 2016. Supervisor: U. Bader.
